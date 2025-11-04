@@ -11,7 +11,7 @@ namespace Practical 12
         private static readonly string configPath;
         static Settings()
         {
-            configPath = "C:/Users/Me/source/repos/Practical12/App.config";
+            configPath = "C:/User/Me/source/repos/Practical12/App.config";
         }
         public static void COutPath()
         {
